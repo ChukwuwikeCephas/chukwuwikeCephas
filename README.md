@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https//twitter.com/chukwuwike_ceph
 - 😄 Pronouns: (HE/HIM/HIS)
 - ⚡ Fun fact: Snakes can predict earthquakes
-
